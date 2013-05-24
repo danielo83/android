@@ -11,11 +11,10 @@
 <gap:splash src="android/mdpi.png" gap:platform="android" gap:density="mdpi" />
 <gap:splash src="android/hdpi.png" gap:platform="android" gap:density="hdpi" />
 <gap:splash src="android/xhdpi.png" gap:platform="android" gap:density="xhdpi" />
-<gap:plugin name="GenericPush" /> 
 <preference name="show-splash-screen-spinner" value="true" />
 <preference name="splash-screen-duration" value="5000" />
 
-<name>Xpression Center</name>
+<name>xpression</name>
 
 
 <author href="https://www.danielo.it" email="danielo@danielo.it">
