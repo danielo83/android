@@ -5,6 +5,8 @@
     version   = "1.0.0">
     
 <icon src="http://www.danielo.it/planner/icon.png" />
+<preference name="auto-hide-splash-screen" value="false" />
+<gap:splash src="http://www.danielo.it/planner/android/xhdpi.png" />
 <gap:splash src="http://www.danielo.it/planner/android/ldpi.png" gap:platform="android" gap:density="ldpi" />
 <gap:splash src="http://www.danielo.it/planner/android/mdpi.png" gap:platform="android" gap:density="mdpi" />
 <gap:splash src="http://www.danielo.it/planner/android/hdpi.png" gap:platform="android" gap:density="hdpi" />
