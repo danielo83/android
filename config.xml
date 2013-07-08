@@ -6,7 +6,6 @@
 	
 <icon src="icon.png" />
 <preference name="target-device" value="universal" />
- <preference name="stay-in-webview" value="true" />
 <preference name="phonegap-version" value="2.9.0" />
 <preference name="auto-hide-splash-screen" value="false" />
 <gap:splash src="/android/xhdpi.png" />
