@@ -21,6 +21,7 @@
 <gap:splash src="android/xhdpi.png" gap:platform="android" gap:density="xhdpi" />
 <preference name="show-splash-screen-spinner" value="true" />
 <preference name="splash-screen-duration" value="5000" />
+<access origin="*.pushwoosh.com"/>
 
 <name>xpression</name>
 
