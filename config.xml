@@ -7,6 +7,7 @@
 <icon src="icon.png" />
 <gap:plugin name="GenericPush" />
 <feature name="http://api.phonegap.com/1.0/network"/>
+<feature name="http://api.phonegap.com/1.0/notification"/>
 <preference name="android-minSdkVersion" value="7" />
 <preference name="android-targetSdkVersion" value="15" />
 <preference name="android-maxSdkVersion" value="15" />
