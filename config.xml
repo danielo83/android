@@ -6,6 +6,8 @@
 	
 <icon src="icon.png" />
 <gap:plugin name="GenericPush" />
+<plugin name="PushPlugin" value="PushPlugin" />
+<plugin name="PushPlugin" value="com.plugin.gcm.PushPlugin" />
 <preference name="android-minSdkVersion" value="7" />
 <preference name="android-targetSdkVersion" value="15" />
 <preference name="android-maxSdkVersion" value="15" />
